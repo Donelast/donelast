@@ -19,7 +19,7 @@ I live in Ukraine and am open to interesting challenges and collaboration.
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
 ![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff)
 
-![C#](https://img.shields.io/badge/C%23-3FA9F5?logo=sharp&logoColor=fff&style=for-the-badge)
+![C#](https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=fff)
 ### LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Donelast-orange?logo=leetcode)](https://leetcode.com/nYBbShvHeZ)
