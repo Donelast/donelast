@@ -17,9 +17,9 @@ I live in Ukraine and am open to interesting challenges and collaboration.
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=fff)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=fff)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=fff)
-![C#](https://img.shields.io/badge/C#-CC6699?logo=sass&logoColor=fff)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sass&logoColor=fff)
 
-![SCSS](https://img.shields.io/badge/SCSS-CC6699?logo=sharp&logoColor=fff)
+![C#](https://img.shields.io/badge/C#-CC6699?logo=sharp&logoColor=fff)
 ### LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode-Donelast-orange?logo=leetcode)](https://leetcode.com/nYBbShvHeZ)
