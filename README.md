@@ -1,8 +1,3 @@
-### GitHub stats
-
-[![GitHub stats](https://github-readme-stats-henna-six-61.vercel.app/api?username=Donelast&show_icons=true&count_private=true&theme=dark&bg_color=151515)](https://github.com/Donelast)
-&nbsp;&nbsp;&nbsp;&nbsp;
-[![Top Langs](https://github-readme-stats-henna-six-61.vercel.app/api/top-langs/?username=Donelast&layout=compact&count_private=true&theme=dark&bg_color=151515)](https://github.com/Donelast)
 
 
  ### About me
@@ -11,6 +6,11 @@ I’m studying to become a fullstack developer.
 In my free time, I build small games and side projects.  
 I live in Ukraine and am open to interesting challenges and collaboration.
 
+### GitHub stats
+
+[![GitHub stats](https://github-readme-stats-henna-six-61.vercel.app/api?username=Donelast&show_icons=true&count_private=true&theme=dark&bg_color=151515)](https://github.com/Donelast)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Top Langs](https://github-readme-stats-henna-six-61.vercel.app/api/top-langs/?username=Donelast&layout=compact&count_private=true&theme=dark&bg_color=151515)](https://github.com/Donelast)
 
 
 ### Tech stack
