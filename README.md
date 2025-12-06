@@ -8,8 +8,7 @@
  ### About me
 
 I’m studying to become a fullstack developer.  
-In my free time, I build small games and side projects.  
-I live in Ukraine and am open to interesting challenges and collaboration.
+In my free time, I build small games and pet projects.  
 
 ### Currently using
 
