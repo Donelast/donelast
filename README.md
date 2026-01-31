@@ -5,11 +5,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;
 [![Top Langs](https://github-readme-stats-henna-six-61.vercel.app/api/top-langs/?username=Donelast&layout=compact&count_private=true&theme=dark&bg_color=151515&v=1)](https://github.com/Donelast)
 
- ### About me
-
-I’m studying to become a fullstack developer.  
-In my free time, I build small games and pet projects.  
-
 ### Currently using
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)
